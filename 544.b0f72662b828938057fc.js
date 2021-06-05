@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[544],{8544:(e,r,n)=>{"use strict";n.r(r),n.d(r,{createWidget:()=>c,renderHelloWorld:()=>t});var l=n(7378);function t(){return l.createElement("div",{className:"_n"},"Hello world")}function c(e){return t}}}]);
